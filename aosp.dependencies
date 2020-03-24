@@ -22,11 +22,5 @@
     "repository": "LineageOS/android_packages_resources_devicesettings",
     "target_path": "packages/resources_devicesettings",
     "branch": "lineage-17.1"
-  },
-  {
-    "remote": "github",
-    "repository": "pranaya2005/proton-clang",
-    "target_path": "prebuilts/clang/host/linux-x86/clang-11",
-    "branch": "master"
   }
 ]
