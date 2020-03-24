@@ -7,9 +7,9 @@
   },
   {
     "remote": "github",
-    "repository": "ProtoDump/kernel_xiaomi_santoni",
+    "repository": "PixelExperience-Devices/kernel_xiaomi_santoni",
     "target_path": "kernel/xiaomi/santoni",
-    "branch": "LA.UM.8.6.r1/treble"
+    "branch": "ten"
   },
   {
     "remote": "github",
