@@ -98,4 +98,7 @@ void vendor_load_properties()
     property_set("dalvik.vm.heapminfree", heapminfree);
     property_set("dalvik.vm.heapmaxfree", heapmaxfree);
 
+    // fingerprint
+    property_override("ro.build.description", "santoni-user 7.1.2 N2G47H V9.5.10.0.NAMMIFD release-keys");
+    property_override_dual("ro.build.fingerprint", "ro.vendor.build.fingerprint", "Xiaomi/santoni/santoni:7.1.2/N2G47H/V9.5.10.0.NAMMIFD:user/release-keys");
 }
